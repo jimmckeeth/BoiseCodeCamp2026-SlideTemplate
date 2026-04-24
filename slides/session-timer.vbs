@@ -1,7 +1,7 @@
 ' --- Configuration ---
-totalMinutes = 3
-blinkOnceAt = 2
-blinkEverySecondAt = 1
+totalMinutes = 45
+blinkOnceAt = 10
+blinkEverySecondAt = 5
 ' ---------------------
 
 Set objShell = CreateObject("WScript.Shell")

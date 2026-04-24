@@ -9,25 +9,28 @@ This repository contains the official slide templates for Boise Code Camp 2026, 
   - `update_slides.py`: Python script to randomize logos and add a progress bar.
   - `session-timer.vbs`: A Windows "Always on Top" countdown timer.
   - `logos/`: A collection of SVG and PNG logos for slide decoration.
-- `00-Thank-You.png`, `01-Schedule.png`, `02-SessionFeedback.png`: Standard presentation assets.
+- [`00-Thank-You.png`](00-Thank-You.png), [`01-Schedule.png`](01-Schedule.png), [`02-SessionFeedback.png`](02-SessionFeedback.png): [Standard presentation assets](BCC-Images.md).
 
 ---
 
 ## 🛠 Automation Tools
 
-Located in the `slides/` directory, these tools are designed to make slide management easier.
+Located in the [`slides/`](slides) directory, these tools are designed to make slide management easier.
 
 ### 1. PowerPoint Slide Decorator
+
 A cross-platform system to randomly decorate slides with logos and a dynamic progress bar.
 
 - **Logo Randomization**: Fills a placeholder area (identified by text like "Insert random logos here") with random logos.
 - **Progress Bar**: Automatically replaces footer text with a Unicode-based progress bar (e.g., `▓▓▓░░ 30%`).
 - **Smart Formatting**: Detects area orientation (vertical/horizontal) and automatically adjusts logo colors (lighten/darken) for theme compatibility.
+- **Configuration:** See the [slides/README.md](slides/README.md) for more information on editing the [`config.json`](slides/config.json) file.
 - **Usage**:
   - **Windows**: Right-click `update-slides.ps1` -> "Run with PowerShell".
   - **Linux/macOS**: Run `./update-slides.sh`.
 
 ### 2. Always-on-Top Session Timer (Windows)
+
 A lightweight countdown timer that stays visible over your presentation.
 
 - **Stealthy**: No console or taskbar window.
