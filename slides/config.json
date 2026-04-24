@@ -1,0 +1,14 @@
+{
+  "random_logos": true,
+  "input_pptx": "VSCode-Dark-Slides.pptx",
+  "output_pptx": "updated.pptx",
+  "target_text": "Insert random logos here",
+  "num_logos_per_slide": 8,
+  "skip_notes": "Keep this slide",
+  "logos_dir": "logos",
+  "_comment": "The 'adjust_logos' option can be 'lighten', 'darken', or 'none'.",
+  "adjust_logos": "lighten",
+  "add_progress_bar": true,
+  "progress_bar_width": 50,
+  "progress_bar_text": "Progress bar"
+}

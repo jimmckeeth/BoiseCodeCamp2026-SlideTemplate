@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Livello_2"
+   data-name="Livello 2"
+   viewBox="0 0 116.31 101.53"
+   version="1.1"
+   sodipodi:docname="Destiny “New Monarchy”.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="3.8896793"
+     inkscape:cx="12.983075"
+     inkscape:cy="43.319766"
+     inkscape:window-width="2256"
+     inkscape:window-height="1398"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Livello_1-2" />
+  <g
+     id="Livello_1-2"
+     data-name="Livello 1">
+    <path
+       d="m 115.9,96.99 -10,-17.31 c -0.66,-1.14 -2.24,-1.28 -3.09,-0.27 L 90.18,94.44 c -1.37,1.64 -3.81,1.85 -5.45,0.47 L 80.39,91.26 C 78.75,89.89 78.54,87.45 79.92,85.81 L 95.66,67.08 c 1.06,-1.26 1.22,-3.05 0.39,-4.48 L 60.77,1.51 c -1.16,-2.02 -4.08,-2.02 -5.24,0 L 0.41,96.99 c -1.16,2.02 0.29,4.54 2.62,4.54 h 110.25 c 2.33,0 3.78,-2.52 2.62,-4.54 z M 42.41,94.91 38.07,91.26 C 36.43,89.89 36.22,87.45 37.6,85.81 L 59,60.34 c 1.37,-1.64 3.81,-1.85 5.45,-0.47 l 4.34,3.65 c 1.64,1.37 1.85,3.81 0.47,5.45 l -21.4,25.47 c -1.37,1.64 -3.81,1.85 -5.45,0.47 z m 21.16,0 -4.34,-3.65 c -1.64,-1.37 -1.85,-3.81 -0.47,-5.45 l 21.4,-25.47 c 1.37,-1.64 3.81,-1.85 5.45,-0.47 l 4.34,3.65 c 1.64,1.37 1.85,3.81 0.47,5.45 l -21.4,25.47 c -1.37,1.64 -3.81,1.85 -5.45,0.47 z"
+       id="path1-8"
+       style="fill:#a7a7a7;fill-opacity:1;stroke:#ffffff;stroke-opacity:1" />
+    <path
+       id="rect1"
+       style="fill:#f4a000;stroke-width:1.33338;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       d="M 85.4553 3.1704268 C 84.603155 3.9001885 84.069071 4.9857542 84.086868 6.187427 L 84.485017 39.44767 C 84.509078 41.590596 86.26024 43.279867 88.39711 43.22151 L 94.068127 43.085852 C 96.211521 43.034993 97.922823 41.26257 97.891182 39.126263 L 97.494308 5.8674842 C 97.470247 3.7245583 95.717811 2.0338224 93.580941 2.0921791 L 87.909924 2.2278374 C 86.972189 2.2500884 86.11808 2.6028343 85.4553 3.1704268 z "
+       transform="matrix(0.74966112,0.66182189,-0.65239654,0.7578778,0,0)" />
+    <path
+       id="rect1-3"
+       style="fill:#15df73;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       d="m 83.154374,58.958281 c -1.114914,-0.0109 -2.223515,0.45836 -2.99414,1.380859 L 58.759843,85.809844 c -1.380001,1.639999 -1.169296,4.079218 0.470704,5.449218 l 4.339844,3.650391 c 1.64,1.38 4.079218,1.169298 5.449218,-0.470703 L 90.42,68.97 c 1.38,-1.64 1.169297,-4.081172 -0.470703,-5.451172 l -4.339844,-3.65039 c -0.7175,-0.60375 -1.587923,-0.90168 -2.455079,-0.910157 z" />
+    <path
+       id="rect1-6"
+       style="fill:#8a00f4;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       d="m 104.53224,58.701613 c -1.11491,-0.0109 -2.22351,0.45836 -2.99414,1.380859 L 80.137714,85.553176 c -1.380001,1.639999 -1.169296,4.079218 0.470704,5.449218 l 4.339844,3.650391 c 1.64,1.38 4.079218,1.169298 5.449218,-0.470703 l 21.40039,-25.46875 c 1.38,-1.64 1.1693,-4.081172 -0.4707,-5.451172 l -4.33985,-3.65039 c -0.7175,-0.60375 -1.58792,-0.90168 -2.45508,-0.910157 z" />
+  </g>
+</svg>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Livello_2"
+   data-name="Livello 2"
+   viewBox="0 0 220.89 54.65"
+   version="1.1"
+   sodipodi:docname="Alien “Weyland-Yutani Corporation”.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="3.4412594"
+     inkscape:cx="67.562474"
+     inkscape:cy="121.90304"
+     inkscape:window-width="2256"
+     inkscape:window-height="1398"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4" />
+  <g
+     id="Livello_1-2"
+     data-name="Livello 1"
+     style="fill:#eacb2c;fill-opacity:1">
+    <g
+       id="g4"
+       style="fill:#eacb2c;fill-opacity:1">
+      <polygon
+         points="220.89 .01 220.89 7.61 173.34 54.6 146.39 54.53 110.37 18.97 74.64 54.43 73.76 54.65 47.4 54.53 0 7.61 0 .01 28.77 .01 60.96 32.39 92.8 .33 93.79 0 127.86 .13 159.94 32.39 192.13 .01 220.89 .01"
+         id="polygon1"
+         style="fill:#eacb2c;fill-opacity:1" />
+      <polygon
+         points="128.74 54.64 92.15 54.64 92.15 50.12 110.37 31.75 128.74 49.9 128.74 54.64"
+         id="polygon2"
+         style="fill:#ffffff;fill-opacity:1" />
+      <polygon
+         points="75.28 .01 79.15 4.09 61.16 22.5 60.5 22.27 42.77 4.31 42.77 .01 75.28 .01"
+         id="polygon3"
+         style="fill:#ffffff;fill-opacity:1" />
+      <polygon
+         points="177.91 .01 177.91 4.31 159.94 22.48 141.54 4.09 145.39 .01 177.91 .01"
+         id="polygon4"
+         style="fill:#ffffff;fill-opacity:1" />
+    </g>
+  </g>
+</svg>

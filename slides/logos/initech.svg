@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="-279.80762 -320 779.92286 575.5"
+   width="779.92285"
+   height="575.5"
+   version="1.1"
+   id="svg15"
+   sodipodi:docname="initech.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs15" />
+  <sodipodi:namedview
+     id="namedview15"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showguides="true"
+     inkscape:zoom="0.87265625"
+     inkscape:cx="390.188"
+     inkscape:cy="402.7932"
+     inkscape:window-width="2256"
+     inkscape:window-height="1398"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2">
+    <sodipodi:guide
+       position="606.46876,300.25"
+       orientation="1,0"
+       id="guide17"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="173.45508,300.25"
+       orientation="1,0"
+       id="guide18"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="389.96143,475.25"
+       orientation="1,0"
+       id="guide19"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="346.66016,200.25"
+       orientation="1,0"
+       id="guide20"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="433.26367,135.43359"
+       orientation="1,0"
+       id="guide21"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="216.75635,445.85321"
+       orientation="1,0"
+       id="guide22"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="563.16652,446.6635"
+       orientation="1,0"
+       id="guide23"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,216.54044"
+       orientation="1,0"
+       id="guide24"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="86.853517,213.12109"
+       orientation="1,0"
+       id="guide25"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="260.05762,200.25"
+       orientation="1,0"
+       id="guide26"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="303.35889,375.25"
+       orientation="1,0"
+       id="guide27"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="476.56398,425.25"
+       orientation="1,0"
+       id="guide28"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="519.86525,217.35073"
+       orientation="1,0"
+       id="guide29"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="693.07032,200.25"
+       orientation="1,0"
+       id="guide30"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="216.75635,475.25"
+       orientation="0,-1"
+       id="guide31"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="173.45508,400.25"
+       orientation="0,-1"
+       id="guide32"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="86.852541,250.25"
+       orientation="0,-1"
+       id="guide33"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="389.96143,275.25"
+       orientation="0,-1"
+       id="guide34"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="606.46876,300.25"
+       orientation="0,-1"
+       id="guide35"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="693.32032,150.39453"
+       orientation="0,-1"
+       id="guide36"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="606.46876,100.25"
+       orientation="0,-1"
+       id="guide37"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1">
+    <path
+       id="polygon2-7"
+       style="stroke:none;stroke-opacity:1"
+       d="m 110.15332,-319.75 -173.20508,100 v 100 l -43.30078,-25 -173.20508,99.999998 v 74.257812 100 25.74219 l 56.21484,32.45508 v 0.0898 l 86.60352,50 v -0.0898 l 30.38672,17.54492 23.94336,-13.82422 62.66015,-36.17578 86.601566,-50 V 129.44336 55.249998 l 43.300784,25 43.30273,-25 V 120.06641 155.25 l 86.60156,50 35.76758,20.65039 50.83594,29.34961 37.29297,-21.53125 49.30859,-28.46875 0.25,-0.14453 V 205.25 l 86.60157,-50 v -39.76367 -60.236332 -100 l -86.60157,50 v 99.855472 l -0.25,0.14453 V 5.249998 l 86.60352,-50 -173.20508,-99.999998 -43.30273,25 v -100 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <g
+       id="g3">
+      <polygon
+         points="0,-300 173.20508,-200 86.60254,-150 0,-200 -86.60254,-150 -173.20508,-200 "
+         fill="#5ba192"
+         stroke="#5ba192"
+         stroke-width="0.5"
+         stroke-linejoin="round"
+         id="polygon1"
+         transform="translate(110.15381,-19.75)"
+         style="stroke:none;stroke-opacity:1" />
+      <polygon
+         points="-86.60254,-150 -86.60254,-50 -173.20508,-100 -173.20508,-200 "
+         fill="#1b1f1e"
+         stroke="#1b1f1e"
+         stroke-width="0.5"
+         stroke-linejoin="round"
+         id="polygon6"
+         transform="translate(110.15381,-19.75)"
+         style="stroke:none;stroke-opacity:1" />
+      <polygon
+         points="0,-200 86.60254,-150 86.60254,-50 0,-100 "
+         fill="#1b1f1e"
+         stroke="#1b1f1e"
+         stroke-width="0.5"
+         stroke-linejoin="round"
+         id="polygon7"
+         transform="translate(110.15381,-19.75)"
+         style="stroke:none;stroke-opacity:1" />
+      <path
+         id="polygon8"
+         style="fill:#1b1f1e;fill-opacity:1;stroke:none;stroke-opacity:1"
+         d="M 66.852529,-44.750002 V -8.0214822 55.249999 l 43.300791,25 V -19.750002 Z" />
+      <polygon
+         points="86.60254,-50 173.20508,-100 173.20508,-200 86.60254,-150 "
+         fill="#d6d6d6"
+         stroke="#d6d6d6"
+         stroke-width="0.5"
+         stroke-linejoin="round"
+         id="polygon11"
+         transform="translate(110.15381,-19.75)"
+         style="stroke:none;stroke-opacity:1" />
+      <polygon
+         points="0,-200 -86.60254,-150 -86.60254,-50 0,-100 "
+         fill="#d6d6d6"
+         stroke="#d6d6d6"
+         stroke-width="0.5"
+         stroke-linejoin="round"
+         id="polygon12"
+         transform="translate(110.15381,-19.75)"
+         style="stroke:none;stroke-opacity:1" />
+      <path
+         id="polygon13"
+         style="fill:#d6d6d6;fill-opacity:1;stroke:none;stroke-opacity:1"
+         d="m 153.45606,-44.750004 -43.30274,25 V 80.249999 l 43.30274,-25 v -25.60938 z" />
+      <polygon
+         points="0,0 -86.60254,-50 0,-100 86.60254,-50 "
+         fill="#5ba192"
+         stroke="#5ba192"
+         stroke-width="0.5"
+         stroke-linejoin="round"
+         id="polygon2-3"
+         transform="translate(326.66016,155.25)"
+         style="stroke:none;stroke-opacity:1" />
+      <path
+         id="polygon6-9"
+         style="stroke:none;fill:#1b1f1e;fill-opacity:1;stroke-opacity:1"
+         d="M -173.20411 -200 L -173.20411 -100 L -173.20411 -35.183594 L -173.20411 0 L -86.602546 50 L -50.834967 70.650391 L 0.00097 100 L 0.00097 0 L -50.834967 -29.349609 L -86.602546 -50 L -86.602546 -150 L -173.20411 -200 z "
+         transform="translate(326.66016,155.25)" />
+      <polygon
+         points="86.60254,-50 0,-100 0,-200 86.60254,-150 "
+         fill="#1b1f1e"
+         stroke="#1b1f1e"
+         stroke-width="0.5"
+         stroke-linejoin="round"
+         id="polygon7-2"
+         transform="translate(326.66016,155.25)"
+         style="stroke:none;stroke-opacity:1" />
+      <path
+         id="polygon11-6"
+         style="stroke:none;fill:#d6d6d6;fill-opacity:1;stroke-opacity:1"
+         d="M 173.20411 -200 L 86.602543 -150 L 86.602543 -50.144531 L 86.352543 -50 L 37.043949 -21.53125 L -0.24902 0 L -0.24902 100 L 37.043949 78.46875 L 86.352543 50 L 86.602543 49.855469 L 86.602543 50 L 173.20411 0 L 173.20411 -39.763672 L 173.20411 -100 L 173.20411 -200 z "
+         transform="translate(326.91015,155.25)" />
+      <polygon
+         points="-86.60254,-50 0,-100 0,-200 -86.60254,-150 "
+         fill="#d6d6d6"
+         stroke="#d6d6d6"
+         stroke-width="0.5"
+         stroke-linejoin="round"
+         id="polygon12-1"
+         transform="translate(326.66016,155.25)"
+         style="stroke:none;stroke-opacity:1" />
+      <polygon
+         points="-86.60254,-50 0,-100 86.60254,-50 0,0 "
+         fill="#5ba192"
+         stroke="#5ba192"
+         stroke-width="0.5"
+         stroke-linejoin="round"
+         id="polygon2-3-6"
+         transform="translate(-106.35254,155.25)"
+         style="stroke:none;stroke-opacity:1" />
+      <path
+         id="polygon6-9-2"
+         style="stroke:none;fill:#1b1f1e;fill-opacity:1;stroke-opacity:1"
+         d="M -173.20508 -200 L -173.20508 -125.74219 L -173.20508 -25.742188 L -173.20508 0 L -116.99024 32.455078 L -116.99024 32.544922 L -30.386721 82.544922 L -30.386721 82.455078 L -1.875e-06 100 L -1.875e-06 0 L -86.601564 -50 L -86.601564 -75.742188 L -86.601564 -150 L -173.20508 -200 z "
+         transform="translate(-106.35254,155.25)" />
+      <polygon
+         points="0,-100 0,-200 86.60254,-150 86.60254,-50 "
+         fill="#1b1f1e"
+         stroke="#1b1f1e"
+         stroke-width="0.5"
+         stroke-linejoin="round"
+         id="polygon7-2-9"
+         transform="translate(-106.35254,155.25)"
+         style="stroke:none;stroke-opacity:1" />
+      <path
+         id="polygon11-6-0"
+         style="stroke:none;fill:#d6d6d6;fill-opacity:1;stroke-opacity:1"
+         d="M 173.20508 -200 L 86.603514 -150 L 86.603514 -50 L 23.943358 -13.824219 L -1.875e-06 0 L -1.875e-06 100 L 23.943358 86.175781 L 86.603514 50 L 173.20508 0 L 173.20508 -25.806641 L 173.20508 -100 L 173.20508 -200 z "
+         transform="translate(-106.35254,155.25)" />
+      <polygon
+         points="0,-100 0,-200 -86.60254,-150 -86.60254,-50 "
+         fill="#d6d6d6"
+         stroke="#d6d6d6"
+         stroke-width="0.5"
+         stroke-linejoin="round"
+         id="polygon12-1-3"
+         transform="translate(-106.35254,155.25)"
+         style="stroke:none;stroke-opacity:1" />
+      <g
+         id="g17">
+        <polygon
+           points="0,-100 86.60254,-50 0,0 -86.60254,-50 "
+           fill="#5ba192"
+           stroke="#5ba192"
+           stroke-width="0.5"
+           stroke-linejoin="round"
+           id="polygon2"
+           style="stroke:none;stroke-opacity:1"
+           transform="translate(110.15381,-19.750004)" />
+        <polygon
+           points="86.60254,-150 0,-200 -86.60254,-150 -173.20508,-200 0,-300 173.20508,-200 "
+           fill="#5ba192"
+           stroke="#5ba192"
+           stroke-width="0.5"
+           stroke-linejoin="round"
+           id="polygon1-5"
+           transform="translate(326.66016,155.25)"
+           style="stroke:none;stroke-opacity:1" />
+        <polygon
+           points="-173.20508,-200 0,-300 173.20508,-200 86.60254,-150 0,-200 -86.60254,-150 "
+           fill="#5ba192"
+           stroke="#5ba192"
+           stroke-width="0.5"
+           stroke-linejoin="round"
+           id="polygon1-5-7"
+           transform="translate(-106.35254,155.25)"
+           style="stroke:none;stroke-opacity:1" />
+        <rect
+           style="fill:#5ba192;fill-opacity:1;stroke:none;stroke-width:0.152;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
+           id="rect17"
+           width="43.30127"
+           height="25.000004"
+           x="23.55127"
+           y="-69.750008" />
+        <rect
+           style="fill:#5ba192;fill-opacity:1;stroke:none;stroke-width:0.152;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
+           id="rect17-9"
+           width="43.301273"
+           height="25"
+           x="153.45508"
+           y="-69.75" />
+      </g>
+    </g>
+  </g>
+</svg>
