@@ -4,6 +4,7 @@ This repository contains the official slide templates for Boise Code Camp 2026, 
 
 ## Repository Structure
 
+- [Presentation tips and speaker instructions](PresentationTips.md)
 - `slides/`: Contains the PowerPoint templates and automation scripts.
   - `BoiseCodeCamp2026.pptx`: The primary template.
   - `update_slides.py`: Python script to randomize logos and add a progress bar.
